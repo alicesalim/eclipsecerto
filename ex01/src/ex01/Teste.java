@@ -15,7 +15,7 @@ public class Teste {
 
         soma = num1 + num2;
 
-        System.out.println("Soma: " + soma);
+        System.out.println("Soma alterada: " + soma);
         //teste
     }
 }
